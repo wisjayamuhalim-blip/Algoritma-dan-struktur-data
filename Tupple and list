@@ -1,0 +1,15 @@
+# MUH ALIM WISJAYA 
+#D0425327
+
+#tuple
+Warna = ("merah", "kuning","hijau")
+print("list tuple  : ", Warna)
+print("lem 1:", Warna[0]) 
+
+#List
+hewan = ["beruk", "monyet","orangutan"] 
+print("Sebelum diubah:", hewan)
+
+hewan[1] = "monyet"    
+hewan.append("kucing")  
+print("setelah diubah:", hewan)
